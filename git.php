@@ -1,5 +1,5 @@
 <?php 
 	echo "testing";
-	echo "This is my git file";
+	echo "This is my git files";
 	echo "Hello";
 ?>
